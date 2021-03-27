@@ -14,3 +14,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=SakuranaRanbom&show_icons=true&theme=synthwave&count_private=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuranaRanbom&layout=compact&hide=html,javascript,css)
+
+![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SakuranaRanbom)
+
+
+
+### Public Key
+
+  - [OpenPGP](https://github.com/SakuranaRanbom/SakuranaRanbom/blob/master/pgp_public_key)
+
+
+
+
