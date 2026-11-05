@@ -16,11 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=SakuranaRanbom&show_icons=true&theme=synthwave&count_private=true)
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=SakuranaRanbom&show_icons=true&theme=synthwave&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SakuranaRanbom&layout=compact&hide=html,javascript,css)
-
-![SakuranaRanbom's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SakuranaRanbom)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=SakuranaRanbom&layout=compact&hide=html,javascript,css)
 
 
 
